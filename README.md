@@ -12,11 +12,10 @@
 > Instalar las dependencias necesarias 
 `npm install `
 
->Ejecuta el comando para ver la app 
+> Ejecuta el comando para ver la app 
 `npm start`
 
-Crea un archivo .env y pefa lo siguiente para conectarte al Backend alojado en HEROKU
-
+> Crea un archivo .env y pefa lo siguiente para conectarte al Backend alojado en HEROKU
 `REACT_APP_BACKEND_URL=https://merntaskq.herokuapp.com/`
 
 ## DEMO
