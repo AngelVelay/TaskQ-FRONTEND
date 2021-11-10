@@ -19,7 +19,6 @@
 `REACT_APP_BACKEND_URL=https://merntaskq.herokuapp.com/`
 
 ## DEMO
-
 (https://taskq-app.netlify.app/)
 
 
