@@ -18,8 +18,7 @@
 > Crea un archivo `.env` y pega lo siguiente para conectarte al Backend alojado en HEROKU
 `REACT_APP_BACKEND_URL=https://merntaskq.herokuapp.com/`
 
-## DEMO
-(https://taskq-app.netlify.app/)
+## DEMO : (https://taskq-app.netlify.app/)
 
 
 
